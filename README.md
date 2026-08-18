@@ -39,7 +39,7 @@ If you find ZAMR useful and would like to support its development and maintenanc
 
 [☕ Support zelect0r/dt2w on Ko-fi](https://ko-fi.com/zelect0r)
 
-Your support helps me continue developing and maintaining ZAMR. Thank you! ❤️
+Your support helps me continue developing and maintaining. Thank you! ❤️
 
 ## Limitations
 
