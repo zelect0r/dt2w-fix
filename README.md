@@ -33,6 +33,14 @@ This module was developed and tested on the OnePlus 8T.
 
 It may work on other OnePlus/Oplus devices using a compatible touchpanel interface, but this is not guaranteed.
 
+## Support
+
+If you find ZAMR useful and would like to support its development and maintenance, you can support me on Ko-fi.
+
+[☕ Support zelect0r/ZAMR on Ko-fi](https://ko-fi.com/zelect0r)
+
+Your support helps me continue developing and maintaining ZAMR. Thank you! ❤️
+
 ## Limitations
 
 The module only enables the touchpanel interface. It does not modify the kernel, framework, SystemUI, or Android settings.
