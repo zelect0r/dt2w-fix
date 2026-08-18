@@ -1,6 +1,6 @@
 # DT2W Fix for OnePlus 8T
 
-A small root module that restores **Double Tap to Wake (DT2W)** on the OnePlus 8T by enabling the touchpanel DT2W interface during boot.
+A small root module that restores **Double Tap to Wake (DT2W)** on the OnePlus 8T (Specify on crDroid 12.11) by enabling the touchpanel DT2W interface during boot.
 
 ## How it works
 
