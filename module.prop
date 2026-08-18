@@ -1,0 +1,6 @@
+id=dt2w-fix
+name=DT2W Fix for OnePlus 8T
+version=1.0
+versionCode=1
+author=zelect0r
+description=Restores Double Tap to Wake on the OnePlus 8T by enabling the touchpanel DT2W proc interface at boot.
