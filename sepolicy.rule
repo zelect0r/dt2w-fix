@@ -1,0 +1,14 @@
+allow shell vendor_proc_display dir search
+allow shell vendor_proc_display dir read
+allow shell vendor_proc_display file open
+allow shell vendor_proc_display file read
+allow shell vendor_proc_display file write
+allow shell vendor_proc_display file getattr
+allow shell vendor_proc_display file setattr
+allow magisk vendor_proc_display dir search
+allow magisk vendor_proc_display dir read
+allow magisk vendor_proc_display file open
+allow magisk vendor_proc_display file read
+allow magisk vendor_proc_display file write
+allow magisk vendor_proc_display file getattr
+allow magisk vendor_proc_display file setattr

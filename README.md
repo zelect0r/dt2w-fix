@@ -13,7 +13,9 @@ The module waits for the touchpanel proc interface to become available:
 
 Once available, it writes `1` to the interface to enable Double Tap to Wake.
 
-The module waits for up to 30 seconds after boot and then performs one final check.
+The module waits for `sys.boot_completed`, up to 60 seconds for the interface to become writable, and then performs one final check.
+
+The module ships a `sepolicy.rule` that allows the `shell`/`magisk` SELinux domains to access the touchpanel proc interface (`vendor_proc_display`). This is required on ROMs running SELinux in Enforcing mode (for example newer crDroid builds).
 
 ## Requirements
 
